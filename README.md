@@ -10,7 +10,7 @@ https://jamc7196.github.io/Web-Design-Challenge/WebVisualization/Latitude.html
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
+![images/landingResize.png](Images/landingResize.png)
 
 ### Before You Begin
 
@@ -85,48 +85,48 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 Homework Screenshots:
 
 Large Main Page:
-(images/Mainpagehtmlmax.png)
+![images/Mainpagehtmlmax.png]
 Small Main Page:
-(images/Mainpagehtmlsmall.png)
+![images/Mainpagehtmlsmall.png]
 
 Large Temperature Page:
-(images/Temphtmlmax.png)
+![images/Temphtmlmax.png]
 Small Temperature Page:
-(images/Temphtmlsmall.png)
+![images/Temphtmlsmall.png]
 
 Large Humidty Page:
-(images/Humidityhtmlmax.png)
+![images/Humidityhtmlmax.png]
 Small Humidty Page:
-(images/Humidtiyhtmlsmall.png)
+![images/Humidtiyhtmlsmall.png]
 
 
 Large Cloudiness Page:
-(images/Cloudinesshtmlmax.png)
+![images/Cloudinesshtmlmax.png]
 Small Cloudiness Page:
-(images/Cloudinesshtmlsmall.png)
+![images/Cloudinesshtmlsmall.png]
  
  Large Wind Speed Page:
-(images/Windspeedhtmlmax.png)
+![images/Windspeedhtmlmax.png]
 Small Wind Speed Page:
-(images/Windspeedhtmlsmall.png)
+![images/Windspeedhtmlsmall.png]
 
- Large Comparisons Page:
-(images/Comparisionshtmlmax.png)
-Small Humidty Page:
-(images/Comparisionshtmlsmall.png)
+ Large Comparisions Page:
+![images/Comparisionshtmlmax.png]
+Small Comparisions Page:
+![images/Comparisionshtmlsmall.png]
 
  Large Data Page:
-(images/Datahtmlmax.png)
+![images/Datahtmlmax.png]
 Small Data Page:
-(images/Datahtmlsmall.png)
+![images/Datahtmlsmall.png]
 
  Large Videos Page:
-(images/Videoshtmlmax.png)
+![images/Videoshtmlmax.png]
 Small Videos Page:
-(images/Videoshtmlsmall.png)
+![images/Videoshtmlsmall.png]
 
  Large Information Page:
-(images/Infohtmlmax.png)
+![images/Infohtmlmax.png]
 Small Information Page:
-(images/Infohtmlsmall.png)
+![images/Infohtmlsmall.png]
 
